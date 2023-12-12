@@ -1,13 +1,8 @@
 # Bez Torba Projesi
 ## Anamur Bilsem Projesi
 
-## İçerikler
-- Nasıl kurulur?[#nasıl-kurulur]
-- Nasıl kurulur?[#]
-- Nasıl kurulur?[#nasıl-kurulur]
-- Nasıl kurulur?[#nasıl-kurulur]
-- Nasıl kurulur?[#nasıl-kurulur]
-
+# İçerikler
+![Resim 1](https://github.com/MYusufY/BezTorbaProjesi/blob/main/resim1.jpg?raw=true)
 
 
 # Nasıl kurulur?
