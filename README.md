@@ -9,6 +9,7 @@
 
 ## Videolar:
 https://github.com/MYusufY/BezTorbaProjesi/assets/122603576/3a08eed3-5a02-4039-9aa1-8d3eadc30360
+NOT: Video güncel sürümün değildir. (v1 sürümünün videosu)
 
 ## Nasıl kurulur?
 "beztorba.apk" dosyasını telefonunuza aktarıp açarak kurun. Henüz iOS desteği yok.
@@ -24,7 +25,7 @@ Ancak bu uygulama prototip olduğu için para yerine sanal puanlar kazanıyoruz.
 Normalde güvenlik amacıyla insanların generate etmemesi için karışık şifreler olmalı. Ama bu uygulama prototip olduğu için QR kodlarda "torba1" ve/veya "torba2" yazması gerekiyor. Bunun nedeni 2 farklı torbada test etmemiz gerektiği.
 
 ## Güncellemeler
-1. v2 --> Bazı bug'lar çözüldü. Puanları internette depolama özelliği kaldırıldı.
+1. v2 --> Bazı bug'lar çözüldü. Puanları internette depolama özelliği kaldırıldı. Puanları sıfırlama seçeneği eklendi.
 
    Yeni güncellemeleri yakında yapacağız. Yeni özelliğimiz "Torbalar" sekmesi ve yine bazı bug'ların çözülmesi.
 
