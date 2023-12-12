@@ -3,6 +3,13 @@
 
 # İçerikler
 ![Resim 1](https://github.com/MYusufY/BezTorbaProjesi/blob/main/resim1.jpg?raw=true)
+![Resim 2](https://github.com/MYusufY/BezTorbaProjesi/blob/main/resim2.jpg?raw=true)
+![Resim 3](https://github.com/MYusufY/BezTorbaProjesi/blob/main/resim3.jpg?raw=true)
+![Resim 4](https://github.com/MYusufY/BezTorbaProjesi/blob/main/resim4.jpg?raw=true)
+VİDEOLAR:
+![Video 1](https://github.com/MYusufY/BezTorbaProjesi/blob/main/video-v1.mp4?raw=true)
+
+
 
 
 # Nasıl kurulur?
