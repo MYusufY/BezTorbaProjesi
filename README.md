@@ -1,5 +1,5 @@
-## Bez Torba Projesi
-# Anamur Bilsem Projesi
+# Bez Torba Projesi
+## Anamur Bilsem Projesi
 
 # Nasıl kurulur?
 "beztorba.apk" dosyasını telefonunuza aktarıp açarak kurun. Henüz iOS desteği yok.
